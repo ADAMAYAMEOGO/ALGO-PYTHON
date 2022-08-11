@@ -1,0 +1,2 @@
+# AFFICHER LE NOMBRE 42.
+print(42)
