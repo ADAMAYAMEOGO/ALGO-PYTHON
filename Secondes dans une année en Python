@@ -1,0 +1,6 @@
+# Écrivez un programme Python affichant le nombre de seconds dans 365 jours.
+Second = 60
+Minute = 60
+Hours = 24
+Days = 365
+print(Second*Minute*Hours*Days)
